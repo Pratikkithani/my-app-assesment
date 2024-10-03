@@ -1,0 +1,18 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.main-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-content > div {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.main-content > div:last-child {
+  margin-right: 0;
+}

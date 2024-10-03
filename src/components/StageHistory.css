@@ -1,0 +1,28 @@
+.stage-history {
+    padding: 20px;
+    background-color: #fafafa;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    margin-bottom: 20px;
+  }
+  
+  .stage-history h4 {
+    margin-bottom: 15px;
+  }
+  
+  .stage-history ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .stage-history ul li {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: #616161;
+  }
+  
+  .stage-history ul li span {
+    font-size: 14px;
+  }
+  
